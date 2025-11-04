@@ -16,7 +16,7 @@ public class DadesUrb {
 	private double superfServeis_ha;
 	private double superfLogistica_ha;
 	private double superfZonesVerdes_ha;
-	private double superfEquipHabitant_m2; edit
+	private double superfEquipHabitant_m2;
 
 	private static String[] comBarcelona = { "Alt Penedès", "Anoia", "Bages", "Baix Llobregat", "Barcelonès",
 			"Berguedà", "Garraf", "Lluçanès", "Maresme", "Moianès", "Osona", "Vallès Oriental", "Vallès Occidental" };
